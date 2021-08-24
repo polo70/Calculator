@@ -1,7 +1,6 @@
 # Calculator using reactjs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-A simple calculator for simple calculations.
+A simple calculator for doing simple calculations.
 
 ## Available Scripts
 
